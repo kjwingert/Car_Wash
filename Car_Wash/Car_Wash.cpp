@@ -10,7 +10,7 @@ using namespace std;
 #define WASH_TIME 180
 #define NULL 0
 
-int main()
+int main() 
 { 
     srand(time(NULL));
     int washedCars = 0;
