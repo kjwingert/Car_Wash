@@ -11,7 +11,7 @@ using namespace std;
 #define NULL 0
 
 int main()
-{
+{ 
     srand(time(NULL));
     int washedCars = 0;
     int totalWaitTime = 0;
