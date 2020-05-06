@@ -16,6 +16,7 @@ SimpleList::~SimpleList()
 	}
 }
 
+
 /// <summary>
 /// Queues a new item at the end of the queue
 /// </summary>
